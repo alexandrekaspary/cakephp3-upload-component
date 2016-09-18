@@ -1,10 +1,10 @@
 # CakePHP3 Upload Component
 
-Este Componente tem como funcao receber o array doo arquivo, alterar o nome do mesmo para um hash gerado apartir da função uniqid() do php e retornar o nome para o controller para poder ser gravado no banco.
+Este Componente tem como funcão receber o array do arquivo, alterar o nome do mesmo para um hash gerado a partir da função uniqid() do php, realizar o upload para a pasta /webroot/upload/ e retornar o nome para o controller para poder ser gravado no banco.
 
 ## Instalação
 
-Faça o download do arquivo UploadComponent.php e salve-o na no diretório src/Controller/Component/ do seu projeto.
+Faça o download do arquivo UploadComponent.php e salve-o no diretório /src/Controller/Component/ do seu projeto.
 
 ## Configuração
 
